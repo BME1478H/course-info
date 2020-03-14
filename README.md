@@ -1,7 +1,7 @@
 
 # BME1478H
 
-This course is offered by the Institute of Biomaterials and Biomedical Engineering ([course page](https://ibbme.utoronto.ca/current-students/course-calendar/course-descriptions/)) at the University of Toronto.
+This course is offered by the Institute of Biomaterials and Biomedical Engineering ([course descriptions page](https://ibbme.utoronto.ca/current-students/course-calendar/course-descriptions/)) at the University of Toronto.
 
 ## Course description
 
