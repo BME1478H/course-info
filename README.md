@@ -30,8 +30,6 @@ Each week students will be sent course materials, including a video tutorial, sa
 
 ### [Winter 2020](https://github.com/BME1478H/Winter2020class)
 
-Course instructor: Michael Garton
-
-Course developers: Lina Tran, Sara Mahallati, Joel Ostblom
-
-Teaching assistants: Ryan Cheuk Long Lee, Dae Hwang, Maryam Moadeli, Andrew Mocle
+- Course instructor: Michael Garton
+- Course developers: Lina Tran, Sara Mahallati, Joel Ostblom
+- Teaching assistants: Ryan Cheuk Long Lee, Dae Hwang, Maryam Moadeli, Andrew Mocle
