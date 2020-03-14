@@ -1,9 +1,9 @@
 
 # BME1478H
 
-## Course description
+This course is offered by the Institute of Biomaterials and Biomedical Engineering ([course page](https://ibbme.utoronto.ca/current-students/course-calendar/course-descriptions/)) at the University of Toronto.
 
-This course description can also be found on the [IBBME course page](https://ibbme.utoronto.ca/current-students/course-calendar/course-descriptions/).
+## Course description
 
 Today’s biomedical engineers will encounter many situations where an ability to perform basic computer programming is desirable if not essential. This is a hands-on course, teaching graduate students the basics of coding and data analysis in the context of different biomedical engineering scenarios. Students will become familiar with the UNIX operating environment, Python scripting, task automation, and version control using Git and GitHub; in addition to analyzing, modelling, and manipulating data. The class will involve working through practical examples and solving real problems through a mix of online and live workshops. This course requires no previous programming experience.
 
@@ -28,9 +28,7 @@ Each week students will be sent course materials, including a video tutorial, sa
 
 ## Course offerings
 
-### Winter 2020
-
-https://github.com/BME1478H/Winter2020class
+### [Winter 2020](https://github.com/BME1478H/Winter2020class)
 
 Course instructor: Michael Garton
 
