@@ -1,15 +1,30 @@
-
 # BME1478H
 
-This course is offered by the Institute of Biomaterials and Biomedical Engineering ([course descriptions page](https://ibbme.utoronto.ca/current-students/course-calendar/course-descriptions/)) at the University of Toronto.
+This course is offered by the Institute of Biomaterials and BiomedicalEngineering
+([course descriptions page](https://ibbme.utoronto.ca/current-students/course-calendar/course-descriptions/))
+at the University of Toronto.
 
 ## Course description
 
-Today’s biomedical engineers will encounter many situations where an ability to perform basic computer programming is desirable if not essential. This is a hands-on course, teaching graduate students the basics of coding and data analysis in the context of different biomedical engineering scenarios. Students will become familiar with the UNIX operating environment, Python scripting, task automation, and version control using Git and GitHub; in addition to analyzing, modelling, and manipulating data. The class will involve working through practical examples and solving real problems through a mix of online and live workshops. This course requires no previous programming experience.
+Today’s biomedical engineers will encounter many situations
+where an ability to perform basic computer programming is desirable if not essential.
+This is a hands-on course,
+teaching graduate students the basics of coding and data analysis
+in the context of different biomedical engineering scenarios.
+Students will become familiar with the UNIX operating environment,
+Python scripting, task automation, and version control using Git and GitHub;
+in addition to analyzing, modelling, and manipulating data.
+The class will involve working through practical examples
+and solving real problems through a mix of online and live workshops.
+This course requires no previous programming experience.
 
 ## Course structure
 
-Each week students will be sent course materials, including a video tutorial, sample files, and a set of exercises. The course can be completed entirely online. Students will have opportunity to get one-on-one guidance from TAs in person once a week. Students will also be able to ask for help online on the course's GitHub issue tracker.
+Each week students will be sent course materials,
+including a video tutorial, sample files, and a set of exercises.
+The course can be completed entirely online.
+Students will have opportunity to get one-on-one guidance from TAs in person once a week
+and be able to ask for help online on the course's GitHub issue tracker.
 
 ### Syllabus
 
