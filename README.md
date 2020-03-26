@@ -1,10 +1,10 @@
 # BME1478H
 
-This course is offered by the Institute of Biomaterials and BiomedicalEngineering
+This course is offered by the Institute of Biomaterials and Biomedical Engineering
 ([course descriptions page](https://ibbme.utoronto.ca/current-students/course-calendar/course-descriptions/))
 at the University of Toronto.
 It is intended for graduate students from different backgrounds
-who have entered the Neuromodulation/Neuroscience/Biomedical engineering program.
+who have entered any of the  Biomaterial, Biomedical or clinical engineering programs.
 
 ## Course description
 
@@ -17,7 +17,7 @@ Students will become familiar with the UNIX operating environment,
 Python scripting, task automation, and version control using Git and GitHub;
 in addition to analyzing, modelling, and manipulating data.
 The class will involve working through practical examples
-and solving real problems through a mix of online and live workshops.
+and solving scientific problems through a mix of online video lectures and live-coding sessions in which the students do the programming live with the instructor in the class.
 This course requires no previous programming experience.
 
 # Learning outcomes
@@ -28,7 +28,7 @@ Students will learn how to
 - Develop a proficiency in coding and doing data analysis in Python.
 - Clean, manipulate, and manage data in Python.
 - Write well-documented and modular Python code.
-- Apply common statistical techniques to biomedical data.
+- Apply common statistical and basic machine learning techniques to biomedical data.
 - Recognize the importance of and ensure reproducibility of analysis documents.
 - Generate publication quality outputs such as figures and documents that effectively communicate technical content.
 
