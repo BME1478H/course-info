@@ -57,8 +57,8 @@ and be able to ask for help online on the course's GitHub issue tracker.
 
 ## Course offerings
 
-### [Winter 2020](https://github.com/BME1478H/Winter2020class)
+### [Fall 2020](https://github.com/BME1478H/Winter2020class)
 
 - Course instructor: Michael Garton
 - Course developers: Lina Tran, Sara Mahallati, Joel Ostblom
-- Teaching assistants: Ryan Cheuk Long Lee, Dae Hwang, Maryam Moadeli, Andrew Mocle
+- Teaching assistants: Ryan Cheuk Long Lee, Dae Hwang, Maryam Moadeli, Andrew Mocle, Amir Peimani, Mustafa Haiderbhai, Amir Mostofinejad
